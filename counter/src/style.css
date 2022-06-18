@@ -1,0 +1,24 @@
+main {
+  display: grid;
+  height: calc(100vh - 50px);
+  place-content: center;
+  place-items: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  background-color: #f5f5f5;
+  padding: .5rem;
+  border-radius: 5px;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  margin: 0;
+  text-align: center;
+  padding: 2rem;
+}
