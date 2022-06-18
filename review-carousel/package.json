@@ -1,0 +1,18 @@
+{
+  "name": "color-flipper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "esbuild ./src/index.ts --outdir=build --bundle --watch",
+    "build": "esbuild ./src/index.ts --outdir=build --bundle --minify"
+  },
+  "author": "emelcd",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.45"
+  }
+}
