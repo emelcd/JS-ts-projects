@@ -4,14 +4,12 @@ specifiers:
   '@types/node': ^18.0.0
   '@types/nodemon': ^1.19.1
   nodemon: ^2.0.16
-  simple-icons: ^7.1.0
   ts-node: ^10.8.1
   typescript: ^4.7.4
 
 dependencies:
   '@types/node': 18.0.0
   nodemon: 2.0.16
-  simple-icons: 7.1.0
   ts-node: 10.8.1_qiyc72axg2v44xl4yovan2v55u
   typescript: 4.7.4
 
@@ -712,11 +710,6 @@ packages:
 
   /signal-exit/3.0.7:
     resolution: {integrity: sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==}
-    dev: false
-
-  /simple-icons/7.1.0:
-    resolution: {integrity: sha512-u32skuPxDBFeCGjzFHCnTJHMuHF17H8Im9r6HYFkRXRz228qz4ZnLDS+sj2OrGq95YG0mbeCN2zJVsxb1tq13Q==}
-    engines: {node: '>=0.12.18'}
     dev: false
 
   /string-width/4.2.3:

@@ -1,0 +1,36 @@
+main {
+  display: grid;
+  height: calc(100vh - 50px);
+  place-content: center;
+  place-items: center;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#color {
+  padding: 1rem;
+}
+
+.color-switch {
+  display: grid;
+  padding: 1rem;
+  background-color: black;
+  color: white
+}
+
+.slider-main {
+  padding: 1rem;
+  display: grid;
+  place-content: center;
+}
+
+.slider-containter {
+  display: flex;
+  flex-direction: column;
+}
+
