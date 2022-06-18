@@ -10,12 +10,9 @@
   "author": "emelcd",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.0.0",
-    "nodemon": "^2.0.16",
-    "ts-node": "^10.8.1",
     "typescript": "^4.7.4"
   },
   "devDependencies": {
-    "@types/nodemon": "^1.19.1"
+    "esbuild": "^0.14.45"
   }
 }
